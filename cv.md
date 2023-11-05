@@ -39,7 +39,7 @@ Since then, I've been actively learning and striving to become a professional Fu
 
    ---
 
-   ### Code example:
+### Code example:
 _Create a function that takes an integer as an argument and returns
 "Even" for even numbers or "Odd" for odd numbers:_
 ```javascript
