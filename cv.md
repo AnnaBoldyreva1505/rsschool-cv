@@ -36,3 +36,29 @@ Since then, I've been actively learning and striving to become a professional Fu
    - _[GoIT](https://www.edu.goit.global/)_
    - _[freeCodeCamp](https://www.freecodecamp.org/)_
    -    RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+   ### Code example:
+_Create a function that takes an integer as an argument and returns
+"Even" for even numbers or "Odd" for odd numbers:_
+```javascript
+function evenOrOdd(number) {
+	if (number % 2 === 0) {
+		return 'Even';
+	} else {
+		return 'Odd';
+	}
+}
+```
+_or_
+```javascript
+function evenOrOdd(number) {
+	return number % 2 === 0 ? 'Even' : 'Odd';
+}
+```
+
+---
+
+### Languages:
+
+-   **Russian**  - native;
+-   **English**  - pre-intermediate
