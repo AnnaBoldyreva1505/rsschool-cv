@@ -5,8 +5,8 @@
 
 **Phone:**  +7 (707) 211 7120  
 **Telegram:**  @anyaboldyreva
-**E-mail:**  hannabl1988@gmail.com 
-**GitHub:** [https://github.com/AnnaBoldyreva1505](https://github.com/AnnaBoldyreva1505)
+**E-mail:**  hannabl1988@gmail.com <br>
+**GitHub:** [https://github.com/AnnaBoldyreva1505](https://github.com/AnnaBoldyreva1505)<br>
 **Linkedin:** [https://www.linkedin.com/in/boldyrevaanna/](https://www.linkedin.com/in/boldyrevaanna/)
 
 ---
@@ -35,7 +35,9 @@ Since then, I've been actively learning and striving to become a professional Fu
 2. **Courses**
    - _[GoIT](https://www.edu.goit.global/)_
    - _[freeCodeCamp](https://www.freecodecamp.org/)_
-   -    RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+   - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+   ---
 
    ### Code example:
 _Create a function that takes an integer as an argument and returns
@@ -60,5 +62,5 @@ function evenOrOdd(number) {
 
 ### Languages:
 
--   **Russian**  - native;
+-   **Russian**  - native
 -   **English**  - pre-intermediate
