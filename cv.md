@@ -4,7 +4,7 @@
 ### Contact information:
 
 **Phone:**  +7 (707) 211 7120  
-**Telegram:**  @anyaboldyreva
+**Telegram:**  @anyaboldyreva <br>
 **E-mail:**  hannabl1988@gmail.com <br>
 **GitHub:** [https://github.com/AnnaBoldyreva1505](https://github.com/AnnaBoldyreva1505)<br>
 **Linkedin:** [https://www.linkedin.com/in/boldyrevaanna/](https://www.linkedin.com/in/boldyrevaanna/)
